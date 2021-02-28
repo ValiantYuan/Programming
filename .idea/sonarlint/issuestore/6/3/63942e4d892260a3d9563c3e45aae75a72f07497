@@ -1,0 +1,9 @@
+
+isquid:S3776:"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ış
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:HiddenFieldChecka"GRename "serverSocketChannel" which hides the field declared at line 21.(Ò¹Áô
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Usquid:S4719p"9Replace charset name argument with StandardCharsets.UTF_8(½­×úÿÿÿÿ
+Qsquid:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S00108y")Either remove or fill this block of code.(å¥‡

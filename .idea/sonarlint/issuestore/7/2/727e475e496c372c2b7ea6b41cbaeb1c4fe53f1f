@@ -1,0 +1,6 @@
+
+Esquid:S1481"+Remove this unused "mapper" local variable.(ëÙñ‰úÿÿÿÿ
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+Jsquid:S1191"5Use classes from the Java API instead of Sun classes.(«¨®™
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†‰ªêÿÿÿÿÿ
+Tsquid:S1854":Remove this useless assignment to local variable "mapper".(ëÙñ‰úÿÿÿÿ

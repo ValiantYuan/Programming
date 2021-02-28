@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æááõÿÿÿÿÿ8Û¬è×µ.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ŸˆÅüÿÿÿÿ8Í©‰Ä©.
+esquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(ŠŽ¢ž8±’Å©.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.( Þƒóøÿÿÿÿ8Í©‰Ä©.
+¤%squid:RedundantThrowsDeclarationCheck!"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ŠŽ¢ž8±’Å©.

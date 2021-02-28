@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlinkProgramming/FlinkProgramming.iml" filepath="$PROJECT_DIR$/FlinkProgramming/FlinkProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneralProgramming/GeneralProgramming.iml" filepath="$PROJECT_DIR$/GeneralProgramming/GeneralProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaErrors/JavaErrors.iml" filepath="$PROJECT_DIR$/JavaErrors/JavaErrors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming.iml" filepath="$PROJECT_DIR$/Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReactiveProgramming/ReactiveProgramming.iml" filepath="$PROJECT_DIR$/ReactiveProgramming/ReactiveProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootProgramming/SpringbootProgramming.iml" filepath="$PROJECT_DIR$/SpringbootProgramming/SpringbootProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit-test/unit-test.iml" filepath="$PROJECT_DIR$/unit-test/unit-test.iml" />
+    </modules>
+  </component>
+</project>

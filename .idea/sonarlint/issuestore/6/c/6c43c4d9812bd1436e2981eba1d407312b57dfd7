@@ -1,0 +1,10 @@
+
+csquid:UnusedPrivateMethod8"2Remove this unused private "privateObject" method.(ìþÒÏýÿÿÿÿ8›½£š©.
+9squid:S3626B"Remove this redundant jump.(ûÁÝ…8›½£š©.
+Isquid:S1172."&Remove these unused method parameters.(Õ“’ üÿÿÿÿ8Šª¦š©.
+Vsquid:S3400G"9Remove this method and declare a constant for this value.(¼•é8›½£š©.
+Rsquid:S1068"/Remove this unused "requestUser" private field.(ó•Šóøÿÿÿÿ8›½£š©.
+lsquid:S1192"NDefine a constant instead of duplicating this literal "this is from " 3 times.(ëïãŽ8›½£š©.
+dsquid:UnusedPrivateMethodF"8Remove this unused private "privateStaticString" method.(µêÏõ8›½£š©.
+\squid:S3400="9Remove this method and declare a constant for this value.(ýžéïÿÿÿÿÿ8›½£š©.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ‹Ìè8›½£š©.

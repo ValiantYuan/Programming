@@ -1,0 +1,6 @@
+
+Asquid:S1148:"#Use a logger to log this exception.(Ç’Çê8Ñ¶ÒÖµ.
+Zsquid:S1854?"7Remove this useless assignment to local variable "out".(Ìàå…ÿÿÿÿÿ8Ü¾ÔÖµ.
+Asquid:S1148E"#Use a logger to log this exception.(ÂïÝî8ÓÉÖÖµ.
+Usquid:S2589A"7Remove this expression which always evaluates to "true"(í¦…È8žŒÕÖµ.
+psquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ýþ8ÓÉÖÖµ.

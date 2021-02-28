@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FlinkProgramming" />
+        <module name="unit-test" />
+        <module name="SpringbootProgramming" />
+        <module name="GeneralProgramming" />
+        <module name="ReactiveProgramming" />
+        <module name="JavaErrors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FlinkProgramming" target="1.8" />
+      <module name="GeneralProgramming" target="8" />
+      <module name="JavaErrors" target="1.8" />
+      <module name="Programming" target="1.8" />
+      <module name="ReactiveProgramming" target="1.8" />
+      <module name="SpringbootProgramming" target="1.8" />
+      <module name="unit-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="JavaErrors" options="-parameters" />
+      <module name="ReactiveProgramming" options="-parameters" />
+      <module name="SpringbootProgramming" options="-parameters" />
+      <module name="unit-test" options="-parameters" />
+    </option>
+  </component>
+</project>

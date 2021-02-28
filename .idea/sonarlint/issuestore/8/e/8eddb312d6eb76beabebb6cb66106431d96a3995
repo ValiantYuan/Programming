@@ -1,0 +1,5 @@
+
+qsquid:UselessImportCheck"ARemove this unused import 'org.apache.poi.ss.usermodel.Workbook'.(°ûâìÿÿÿÿÿ8ÔášÄ¼.
+xsquid:UselessImportCheck	"HRemove this unused import 'org.apache.poi.ss.usermodel.WorkbookFactory'.(ğ‘ƒ¦şÿÿÿÿ8ÔášÄ¼.
+msquid:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(âÑãöøÿÿÿÿ8ÔášÄ¼.
+isquid:UselessImportCheck"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôıÿÿÿÿ8¯Å™Ä¼.

@@ -1,0 +1,7 @@
+auth:
+  systems[0]:
+    appId: travel
+    appSecret: 123456
+  systems[1]:
+    appId: aided
+    appSecret: 123654
