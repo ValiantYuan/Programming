@@ -1,9 +1,6 @@
 
-_squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(¨Ò„íşÿÿÿÿ8¶±†´ê-
-Gsquid:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
-squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8ÔÆè³š.
-usquid:UselessImportCheck"LRemove this unused import 'org.springframework.web.bind.annotation.Mapping'.(«Õ±ø8˜·Á³š.
-rsquid:UselessImportCheck"IRemove this unused import 'org.springframework.retry.annotation.Recover'.(ÈÖÈ€8…ı€Å©.
-Zsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(â‘•É8şóíÄ©.
 Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯°Æ³š.
+_squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(¨Ò„íşÿÿÿÿ8¶±†´ê-
 Psquid:S1068"/Remove this unused "authSystems" private field.(½ĞÖÆúÿÿÿÿ8¦¦à·š.
+Gsquid:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+Zsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(â‘•É8şóíÄ©.

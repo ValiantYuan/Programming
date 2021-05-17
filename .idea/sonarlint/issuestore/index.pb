@@ -31,16 +31,6 @@ n
 >SpringbootProgramming/.mvn/wrapper/MavenWrapperDownloader.java,2/5/25eb9ca9b6f928163e12429ae446055a75aa0ceb
 Ü
 VSpringbootProgramming/src/main/java/valiant/springbootprogramming/HelloController.java,8/7/8736e19fc5c02f808ce4f25702daac234ac4e64a
-å
-\SpringbootProgramming/src/main/java/valiant/springbootprogramming/service/PeopleService.java,2/3/231ce335ee544fbbb73dfd99157fcec8f758694c
-á
-WSpringbootProgramming/src/main/java/valiant/springbootprogramming/component/People.java,9/b/9bce835a79363d759925f4ea938731cdcc004006
-Ç
-RSpringbootProgramming/src/main/java/valiant/springbootprogramming/bean/People.java,2/c/2c1a0a609404dfe531346c845258b332fcb7e7f2
-í
-bSpringbootProgramming/src/main/java/valiant/springbootprogramming/service/PeopleServiceBobImp.java,8/b/8b645d5928883a8fbaa356136366532e1f52caa5
-í
-bSpringbootProgramming/src/main/java/valiant/springbootprogramming/service/PeopleServiceJoeImp.java,0/0/00d95dd67bebda935fb2149843ce3bdcfc043657
 á
 WSpringbootProgramming/src/main/java/valiant/springbootprogramming/bean/AuthSystems.java,c/8/c8fb96431c9cd924a75aca9697185421390e5365
 Ç
@@ -143,3 +133,5 @@ m
 =GeneralProgramming/src/main/java/orika/MetaspaceOverflow.java,7/2/727e475e496c372c2b7ea6b41cbaeb1c4fe53f1f
 P
  SpringbootProgramming/.gitignore,e/c/ecb449b34190d9c2ed9eb8bf85ec0ad7a18be86f
+Å
+QSpringbootProgramming/src/main/java/valiant/springbootprogramming/JsonParser.java,7/5/7579b6dc75bc1a9a60ec5d25565a84979c55caa1
