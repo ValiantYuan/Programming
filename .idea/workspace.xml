@@ -14,11 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f0e3f4-96a6-43a3-a197-6b41bd92220b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringbootProgramming/src/main/java/valiant/springbootprogramming/JsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringbootProgramming/src/main/java/valiant/springbootprogramming/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringbootProgramming/src/main/java/valiant/springbootprogramming/queue/Broker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringbootProgramming/src/main/java/valiant/springbootprogramming/queue/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringbootProgramming/src/main/java/valiant/springbootprogramming/queue/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -317,6 +312,7 @@
       <workItem from="1617110367614" duration="11926000" />
       <workItem from="1618307087947" duration="598000" />
       <workItem from="1619331187251" duration="1750000" />
+      <workItem from="1621222811294" duration="947000" />
     </task>
     <servers />
   </component>
@@ -362,10 +358,6 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="628" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1614506937596" />
-    <state width="524" height="498" key="DebuggerActiveHint" timestamp="1610705474960">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state width="524" height="498" key="DebuggerActiveHint/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1610705474960" />
     <state width="1316" height="232" key="GridCell.Tab.0.bottom" timestamp="1617111140805">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -438,18 +430,19 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="384" y="154" key="SettingsEditor/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1614507831996" />
-    <state x="560" y="307" width="973" height="476" key="find.popup" timestamp="1619331296694">
+    <state x="560" y="307" width="973" height="476" key="find.popup" timestamp="1621222860855">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="560" y="307" width="973" height="476" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1619331296694" />
+    <state x="560" y="307" width="973" height="476" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1621222860855" />
     <state x="597" y="326" width="819" height="490" key="find.popup/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1614506062929" />
     <state x="264" y="235" key="new project wizard" timestamp="1614506478629">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="264" y="235" key="new project wizard/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1614506478629" />
-    <state x="539" y="265" width="715" height="723" key="search.everywhere.popup" timestamp="1617093603463">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="505" y="250" width="671" height="677" key="search.everywhere.popup" timestamp="1621222850544">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="505" y="250" width="671" height="677" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1621222850544" />
     <state x="539" y="265" width="715" height="723" key="search.everywhere.popup/0.23.1792.1097/-86.-1057.1920.1057@0.23.1792.1097" timestamp="1614506045880" />
     <state x="539" y="265" width="715" height="723" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1617093603463" />
   </component>
